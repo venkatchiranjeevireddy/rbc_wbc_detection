@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+numpy
+matplotlib
+albumentations
+torch
+torchvision
+gradio
